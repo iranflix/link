@@ -1,1 +1,1 @@
-http://web.bedrives.ir
+http://web.bedrives.ir/api
