@@ -1,1 +1,1 @@
-http://webmoviebox.xyz/api/
+https://webmoviebox.xyz/api/
