@@ -1,1 +1,1 @@
-http://addmoviebox.xyz/api/
+http://webmoviebox.xyz/api/
