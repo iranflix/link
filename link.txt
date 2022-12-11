@@ -1,1 +1,1 @@
-http://ssruby.xyz/api/
+https://ssruby.xyz/api/
