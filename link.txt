@@ -1,1 +1,1 @@
-https://jsdl100.site/api/
+http://jsdl100.site/api/
