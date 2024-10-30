@@ -1,1 +1,1 @@
-https://persiserver.com/api/
+http://persiserver.com/api/
