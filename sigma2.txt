@@ -1,1 +1,1 @@
-http://boboxlin.info/api/
+http://boxlin.info/api/
