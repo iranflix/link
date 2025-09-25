@@ -1,1 +1,1 @@
-http://dostman.info/api/
+http://rubyxpin.info/api/
